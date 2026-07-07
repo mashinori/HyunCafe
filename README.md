@@ -76,30 +76,8 @@
 <br>
 
 
-[![mashinori's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=mashinori&custom_title=mashinori's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![mashinori's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=mashinori&custom_title=mashinori's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/mashinori/github-readme-activity-graph)
 
 
 <br>
-
-
-<p align="center">
-    <img src="assets/loficity.gif" alt="Lofi Nightlife city scene" />
-</p>
-
-
-<h3 align="center">Connect With Me</h3>
-
-<p align="center">
-
-<a href="https://github.com/mashinori">
-<img align="center" height="50" width="50" src="assets/githublogo.png"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://daily.dev/mashiru">
-<img align="center" height="50" width="50" src="assets/devtologo.png"/>
-</a>
-
-</p>
 ```
