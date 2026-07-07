@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://daily.dev/mashiru">
-        <img src="https://api.daily.dev/devcards/v2/lznnJmpddeoYd0CNPgvG1.png?type=default&r=7fu" width="356" alt="mashiru's dev card"/>
+        <img src="https://api.daily.dev/devcards/v2/lznnJmpddeoYd0CNPgvG1.png?type=default&r=bkq" width="356" alt="mashiru's Dev Card"/>
     </a>
 </p>
 
