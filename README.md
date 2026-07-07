@@ -1,4 +1,3 @@
-
 <p align="center">
     <a href="https://daily.dev/mashiru">
         <img src="https://api.daily.dev/devcards/v2/lznnJmpddeoYd0CNPgvG1.png?type=default&r=7fu" width="356" alt="mashiru's dev card"/>
@@ -11,11 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=mashinori&color=blueviolet&style=flat-square&label=PROFILE+VIEWS&base=18332&abbreviated=true" alt="profile view counter">
 </p>
 
-<h2 align="center">professional tinkerer</h2>
-
-<p align="center">
-    breaking things, understanding them, and rebuilding them.
-</p>
+<p align="center">professional tinkerer</h2>
 
 <br>
 
@@ -37,22 +32,18 @@
 
 <br>
 
-- 🐾 just here to learn, build random projects, and meet other developers.
-
-<br>
-
 
 <div align="center">
 
 <h2><strong>actively learning:</strong></h2>
 
-<img src="https://skillicons.dev/icons?i=lua,py,linux,bash" alt="skills actively learning logos">
+<img src="https://skillicons.dev/icons?i=lua,cpp,py,linux,bash" alt="skills actively learning logos">
 
 <br>
 
 <h2><strong>planning to learn:</strong></h2>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,java" alt="skills planning to learn logos">
+<img src="https://skillicons.dev/icons?i=js,java" alt="skills planning to learn logos">
 
 <br>
 
