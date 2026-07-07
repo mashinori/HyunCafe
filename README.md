@@ -20,9 +20,9 @@
 - 🌳 currently learning **luau, python, and c++**.
 
 - 📸 previous experiences:
-      - roblox studio & luau development (2018 - present)
-      - frosty serverside project (2019/2020 - discontinued)
-      - browser extension and software experimentation
+  - roblox studio & luau development (2018 - present)
+  - frosty serverside project (2019/2020 - discontinued)
+  - browser extension and software experimentation
 
 <br>
 
