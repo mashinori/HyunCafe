@@ -26,8 +26,6 @@
 
 <br>
 
-<h2></h2>
-
 <div align="center">
 
 <h2><strong>actively learning:</strong></h2>
