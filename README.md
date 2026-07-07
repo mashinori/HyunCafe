@@ -4,7 +4,7 @@
 
 <a href="https://daily.dev/mashiru"><img src="https://api.daily.dev/devcards/v2/lznnJmpddeoYd0CNPgvG1.png?type=default&r=7fu" width="356" alt="mashiru's Dev Card"/></a>
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="center"> professional larper</h2>
 
 * 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
 Actively Going through:
