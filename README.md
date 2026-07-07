@@ -38,7 +38,7 @@
 
 <h2><strong>planning to learn:</strong></h2>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,java,ts" alt="skills planning to learn logos">
+<img src="https://skillicons.dev/icons?i=cpp,js,java" alt="skills planning to learn logos">
 
 <br>
 
